@@ -60,10 +60,10 @@ ESP32와 환경 센서를 활용한 대기환경 모니터링 및 미세먼지 �
 
 ## 시연 영상
 
-### 위성 시스템 구동 영상
+### 실시간 데이터 수신 영상
 
 https://github.com/tionlab/ClimaDust/raw/main/media/1.mp4
 
-### 실시간 데이터 수신 영상
+### 위성 시스템 구동 영상
 
 https://github.com/tionlab/ClimaDust/raw/main/media/2.mp4
