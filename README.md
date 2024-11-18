@@ -48,28 +48,22 @@ ESP32와 환경 센서를 활용한 대기환경 모니터링 및 미세먼지 �
 
 ## 데이터 그래프
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="display: flex; flex-direction: column; width: 48%;">
-        <img src="./media/tem_graph.png" width="100%" alt="온도 그래프">
-        <img src="./media/hum_graph.png" width="100%" alt="습도 그래프">
-        <img src="./media/pres_graph.png" width="100%" alt="기압 그래프">
-    </div>
-    <div style="width: 48%;">
-        <img src="./media/correlation.png" width="100%" alt="상관관계">
-    </div>
-</div>
+### 기상 요소별 그래프
+
+![온도 그래프](./media/tem_graph.png)
+![습도 그래프](./media/hum_graph.png)
+![기압 그래프](./media/pres_graph.png)
+
+### 상관관계 분석
+
+![상관관계](./media/correlation.png)
 
 ## 시연 영상
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
-        <video width="100%" controls>
-            <source src="./media/1.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div style="width: 48%;">
-        <video width="100%" controls>
-            <source src="./media/2.mp4" type="video/mp4">
-        </video>
-    </div>
-</div>
+### 위성 시스템 구동 영상
+
+https://github.com/tionlab/ClimaDust/raw/main/media/1.mp4
+
+### 실시간 데이터 수신 영상
+
+https://github.com/tionlab/ClimaDust/raw/main/media/2.mp4
